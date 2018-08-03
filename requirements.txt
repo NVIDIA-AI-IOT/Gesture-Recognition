@@ -1,0 +1,13 @@
+argparse
+dill
+fire
+matplotlib
+psutil
+requests
+scikit-image
+scipy
+slidingwindow
+tqdm
+sklearn
+setuptools==39.2.0
+Cython

@@ -1,0 +1,6 @@
+*.pyc
+*.bak
+.vscode/
+.*.swp
+nohup.out
+lstm/data/*

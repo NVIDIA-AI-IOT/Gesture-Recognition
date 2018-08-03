@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/nvidia/wavenet/lstm/ckpts/popnnpopnn9000.ckpt"
+all_model_checkpoint_paths: "/home/nvidia/wavenet/lstm/ckpts/popnnpopnn9000.ckpt"
